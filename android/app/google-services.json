@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "351430547917",
+    "project_id": "say-it-6095f",
+    "storage_bucket": "say-it-6095f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351430547917:android:88c3faf0f3e00ee8404c84",
+        "android_client_info": {
+          "package_name": "com.example.sayit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351430547917-qutmqsl2550uo059784gi49von6hegqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXhLrIJ_8hZ9hfIV1a8cuZXcJcs0ROTbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351430547917-qutmqsl2550uo059784gi49von6hegqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
